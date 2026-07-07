@@ -205,10 +205,9 @@ MIT License
 
 ## 👨‍💻 Author
 
-**Kavya Chandrashekhar**
+**V Kavya**
 - Email: kavyachandrashekhar29@gmail.com
 - Location: Raichur, Karnataka, India
 
 ---
 
-Built with ❤️ using MERN Stack
